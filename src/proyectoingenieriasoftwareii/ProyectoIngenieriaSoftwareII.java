@@ -19,6 +19,7 @@ public class ProyectoIngenieriaSoftwareII {
         System.out.println(" Holaaaaaaaaaaaaaaaaaaa ");
         System.out.println("Bienvenido a mi Proyecto de HORARIOS ");
         System.out.println("Este ejercicio tiene muchas funciones ");
+        System.out.println(" Bye");
         int hora = -1;
         int minuto = -1;
         int segundos = -1;
