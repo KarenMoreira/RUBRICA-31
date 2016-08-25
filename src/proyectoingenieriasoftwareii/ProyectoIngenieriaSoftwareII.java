@@ -46,11 +46,12 @@ public class ProyectoIngenieriaSoftwareII {
                 System.out.println("Solo se puede Ingresar valores enteros Positivos");
             }
         } while (segundos == -1);
-        System.out.print("La hora ingresada es >>>" + hora + ":" + minuto + ":" + segundos);
+        System.out.print("La Hora Ingresada Es: >>>" + hora + ":" + minuto + ":" + segundos);
         int converMinuto = minuto * 60;
         int converHora = hora * 3600;
         int segundosTotales = converMinuto + converHora + segundos;
         System.out.println("\nEl valor total en segundos es de>> " + segundosTotales);
+        System.out.println("Gracias ");
     }
 
     //Método de validación
