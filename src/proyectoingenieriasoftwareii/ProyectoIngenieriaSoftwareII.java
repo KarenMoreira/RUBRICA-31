@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
 /**
  * Materia: Ingenieria de Software II
  * @author : Karen Moreira
+ * Fecha: 25 de Agosto del 2016
  */
 public class ProyectoIngenieriaSoftwareII {
     
