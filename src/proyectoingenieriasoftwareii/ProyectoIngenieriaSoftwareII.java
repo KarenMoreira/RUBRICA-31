@@ -5,14 +5,17 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ * Materia: Ingenieria de Software II
  * @author : Karen Moreira
  */
 public class ProyectoIngenieriaSoftwareII {
+    
+    
 
     public static BufferedReader entrada = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String[] args) throws IOException {
+        System.out.println("Bienvenido a mi Proyecto de varios valores ");
         int hora = -1;
         int minuto = -1;
         int segundos = -1;
