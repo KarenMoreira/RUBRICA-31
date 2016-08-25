@@ -15,6 +15,7 @@ public class ProyectoIngenieriaSoftwareII {
     public static BufferedReader entrada = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String[] args) throws IOException {
+        System.out.println(" Holaaaaaaaaaaaaaaaaaaa ");
         System.out.println("Bienvenido a mi Proyecto de HORARIOS ");
         System.out.println("Este ejercicio tiene muchas funciones ");
         int hora = -1;
